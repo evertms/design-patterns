@@ -9,7 +9,8 @@ Lo que nos indica el patrón de diseño Builder es que podemos ir añadiendo par
 - Separar la construcción del objeto de su representación final, lo que hace el código más legible y fácil de mantener. Si queremos agregar más partes, en vez de modificar el constructor, creamos otro método para agregar tal configuración.
 - Cuando un objeto tiene muchas partes o "configuraciones" posibles.
 ### Diagrama
-![[Patrón Builder 1.png]]
+![image](https://github.com/user-attachments/assets/2455c3a2-0618-46d3-b48d-8acfa97ec281)
+
 
 ### Pseudocódigo
 ```
